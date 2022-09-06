@@ -20,7 +20,7 @@ people with that link will be able to join.
 --------------------
 >> NOTE: 1. Video and Chat some times takes time to appear 
             due to network or server issues.
-         2. There is problem with signup/signin with Google
+         2. Normal registration is working but there is problem with signup/signin with Google
             our site is https and we can use http but https requires certificate from Google
             so there is error from Google side.
 --------------------

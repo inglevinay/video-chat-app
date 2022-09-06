@@ -17,7 +17,7 @@ else register/sign up through red register link
 then you will enter room where you can click button to start meet
 you can add members by sharing link(on left of text/chat box) 
 people with that link will be able to join
-(enter your name for meeting so that you can be noticed in chats).
+(in alert prompt enter your name for meeting so that you can be noticed in chats).
 --------------------
 >> NOTE: 1. Video and Chat some times takes time to appear 
             due to network or server issues.
